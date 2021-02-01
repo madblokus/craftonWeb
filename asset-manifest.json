@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/craftonWeb/static/css/main.dc3958b9.chunk.css",
-    "main.js": "/github.io/craftonWeb/static/js/main.1ba3978f.chunk.js",
-    "main.js.map": "/github.io/craftonWeb/static/js/main.1ba3978f.chunk.js.map",
-    "runtime-main.js": "/github.io/craftonWeb/static/js/runtime-main.e2618ae3.js",
-    "runtime-main.js.map": "/github.io/craftonWeb/static/js/runtime-main.e2618ae3.js.map",
-    "static/js/2.f3cf8766.chunk.js": "/github.io/craftonWeb/static/js/2.f3cf8766.chunk.js",
-    "static/js/2.f3cf8766.chunk.js.map": "/github.io/craftonWeb/static/js/2.f3cf8766.chunk.js.map",
-    "index.html": "/github.io/craftonWeb/index.html",
-    "static/css/main.dc3958b9.chunk.css.map": "/github.io/craftonWeb/static/css/main.dc3958b9.chunk.css.map",
-    "static/js/2.f3cf8766.chunk.js.LICENSE.txt": "/github.io/craftonWeb/static/js/2.f3cf8766.chunk.js.LICENSE.txt",
-    "static/media/9.677032a1.svg": "/github.io/craftonWeb/static/media/9.677032a1.svg",
-    "static/media/App.css": "/github.io/craftonWeb/static/media/Muli-SemiBoldItalic.d53363ac.ttf",
-    "static/media/logo3.4574b152.svg": "/github.io/craftonWeb/static/media/logo3.4574b152.svg",
-    "static/media/yellowArrow.f668c384.svg": "/github.io/craftonWeb/static/media/yellowArrow.f668c384.svg"
+    "main.css": "/craftonWeb/static/css/main.b588483e.chunk.css",
+    "main.js": "/craftonWeb/static/js/main.4ff9325a.chunk.js",
+    "main.js.map": "/craftonWeb/static/js/main.4ff9325a.chunk.js.map",
+    "runtime-main.js": "/craftonWeb/static/js/runtime-main.4a112073.js",
+    "runtime-main.js.map": "/craftonWeb/static/js/runtime-main.4a112073.js.map",
+    "static/js/2.f151d248.chunk.js": "/craftonWeb/static/js/2.f151d248.chunk.js",
+    "static/js/2.f151d248.chunk.js.map": "/craftonWeb/static/js/2.f151d248.chunk.js.map",
+    "index.html": "/craftonWeb/index.html",
+    "static/css/main.b588483e.chunk.css.map": "/craftonWeb/static/css/main.b588483e.chunk.css.map",
+    "static/js/2.f151d248.chunk.js.LICENSE.txt": "/craftonWeb/static/js/2.f151d248.chunk.js.LICENSE.txt",
+    "static/media/9.677032a1.svg": "/craftonWeb/static/media/9.677032a1.svg",
+    "static/media/App.css": "/craftonWeb/static/media/Muli-SemiBoldItalic.d53363ac.ttf",
+    "static/media/logo3.4574b152.svg": "/craftonWeb/static/media/logo3.4574b152.svg",
+    "static/media/yellowArrow.f668c384.svg": "/craftonWeb/static/media/yellowArrow.f668c384.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2618ae3.js",
-    "static/js/2.f3cf8766.chunk.js",
-    "static/css/main.dc3958b9.chunk.css",
-    "static/js/main.1ba3978f.chunk.js"
+    "static/js/runtime-main.4a112073.js",
+    "static/js/2.f151d248.chunk.js",
+    "static/css/main.b588483e.chunk.css",
+    "static/js/main.4ff9325a.chunk.js"
   ]
 }
