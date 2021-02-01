@@ -1,11 +1,14 @@
 ###
 Live website available here
+https://madblokus.github.io/craftonWeb/#/
 
-
-To download and start app
+1. clone 
 ### `git clone`
+2. go into root dir then
 ### `yarn`
+and 
 ### `yarn start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
