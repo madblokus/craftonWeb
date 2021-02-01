@@ -1,0 +1,4 @@
+.page {
+    width: calc(100vw - (100vw - 100%));
+    overflow-x: hidden;
+}
