@@ -2,9 +2,9 @@
 Live website available here
 https://madblokus.github.io/craftonWeb/#/
 
-1. clone 
+clone 
 ### `git clone`
-2. go into root dir then
+go into root dir then
 ### `yarn`
 and 
 ### `yarn start`
